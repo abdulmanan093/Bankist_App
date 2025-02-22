@@ -45,4 +45,4 @@ This app was developed by me based on concepts from [The Complete JavaScript Cou
 
 # Screenshots
 
-![1](https://github.com/abdulmanan093/Bankist-landing_page/assets/138243512/9f0b43e4-7e36-4f53-9f0d-5d843c063dde)
+<img width="960" alt="Screenshot 2025-02-22 230634" src="https://github.com/user-attachments/assets/0861afe3-abd1-446f-b6e9-4ce99e13f92d" />
